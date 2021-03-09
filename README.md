@@ -1,2 +1,2 @@
 # contact-form
-contact form with vakidation.
+contact form with validation.
